@@ -56,7 +56,7 @@ To replicate this analysis, you can run the `Hypothesis_Testing_Training_Program
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/MZakkiy/hypothesis_testing_training_program.git](https://github.com/MZakkiy/hypothesis_testing_training_program.git)
+    git clone https://github.com/MZakkiy/hypothesis_testing_training_program.git
     ```
 2.  Install the required libraries:
     ```bash
